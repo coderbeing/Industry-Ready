@@ -1,5 +1,4 @@
 ## this is git tutorials
-## blah blah and this and this 
+# plus minus
+# this changes are by developer 1
 
-## something confusing
-fetch
